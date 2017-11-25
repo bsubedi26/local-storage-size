@@ -1,0 +1,17 @@
+{
+  "name": "local-storage-size",
+  "version": "1.0.0",
+  "description": "Calculates the size in bytes of all the items stored currently in local storage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "localStorage",
+    "size",
+    "storage",
+    "bytes"
+  ],
+  "author": "Bibek Subedi",
+  "license": "MIT"
+}
